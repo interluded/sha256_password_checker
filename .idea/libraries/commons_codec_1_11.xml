@@ -1,5 +1,5 @@
 <component name="libraryTable">
-  <library name="commons-codec-1.16.0">
+  <library name="commons-codec-1.11">
     <CLASSES>
       <root url="jar://$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3/lib/commons-codec-1.16.0.jar!/" />
     </CLASSES>
